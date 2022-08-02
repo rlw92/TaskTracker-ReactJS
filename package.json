@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rlw92.github.io",
+  "homepage": "https://rlw92.github.io/TaskTracker-ReactJS/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
